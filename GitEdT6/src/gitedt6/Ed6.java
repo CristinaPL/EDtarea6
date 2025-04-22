@@ -12,7 +12,7 @@ public class Ed6 {
     public static void main(String[] args) {
     
     Tarea6EDClase miCarrito = new Tarea6EDClase();
-    miCarrito.aplicarDescuento(70, 3);
+    miCarrito.aplicarDescuento(100, 5);
     }
     
 }
